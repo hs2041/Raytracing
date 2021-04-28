@@ -5,6 +5,8 @@ The algorithm takes into account reflection, refraction and light diffusion.
 
 It is a basic implementation which takes a lot of time to run but the code is quite simple to comprehend. You can also find some sample images attached. 
 
+# Sample image
+![Screenshot 2021-02-27 22:11:49](https://user-images.githubusercontent.com/44134658/84021200-c77e6680-a9a1-11ea-8b38-1aea139da8ae.png)
 # System dependencies
 
 I have compiled this code on Ubuntu 20.04 using cmake:
