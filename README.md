@@ -1,7 +1,7 @@
 
 # Raytracing
 Basic ray tracing is performed on a number of shapes such as cuboids, spheres and cylinders.
-The algorithm takes into account reflection, refraction and light diffusion. 
+The algorithm takes into account reflection, refraction, shadows and light diffusion. 
 
 It is a basic implementation which takes a lot of time to run but the code is quite simple to comprehend. You can also find some sample images attached. 
 
