@@ -1,3 +1,12 @@
+
+# Raytracing
+Basic ray tracing is performed on a number of shapes such as cuboids, spheres and cylinders.
+The algorithm takes into account reflection, refraction and light diffusion. 
+
+It is a basic implementation which takes a lot of time to run but the code is quite simple to comprehend. You can also find some sample images attached. 
+
+# System dependencies
+
 I have compiled this code on Ubuntu 20.04 using cmake:
 
 System dependencies:
@@ -8,6 +17,8 @@ System dependencies:
 
 sudo apt-get install freeglut3*
 sudo apt-get install libglfw3*
+
+# Install
 
 Use the following commands make and compile the code:
 1. mkdir build && cd build
@@ -22,4 +33,3 @@ In order to set the camera to a specific pose, you can change the camera positio
 
 Note: Cook torrence has not been implemented
       The rays are getting trapped inside the tumblers making it impossible to visualise the fluid inside
-# Raytracing
